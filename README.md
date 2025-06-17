@@ -1,6 +1,6 @@
 ## Hi, I'm Angel 👋
 
-[![Visitas](https://komarev.com/ghpvc/?username=tuusuario)](https://github.com/azuar4e)
+[![Visitas](https://komarev.com/ghpvc/?username=azuar4e)](https://github.com/azuar4e)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/angelazuara_17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-azuara)
 
