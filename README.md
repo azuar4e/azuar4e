@@ -7,8 +7,8 @@
 ![Texto dinámico](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Cloud+Computing+Enjoyer;Open+Source+Contributor)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azuar4e&show_icons=true&theme=radical" width="555" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuar4e&layout=compact&theme=radical" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azuar4e&show_icons=true&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuar4e&layout=compact&theme=radical" width="300" />
 </p>
 
 
