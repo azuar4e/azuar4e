@@ -6,9 +6,17 @@
 
 ![Texto dinámico](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Cloud+Computing+Enjoyer;Open+Source+Contributor)
 
-## 📊 Stadistics
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=azuar4e&show_icons=true&theme=radical)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=azuar4e&layout=compact&theme=dark)
+<div>
+    <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
+        <img src="https://github.com/Lruihao/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+        <img src="https://github.com/Lruihao/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
+        <img src="https://github.com/Lruihao/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+        <img src="https://github.com/Lruihao/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+    </a>
+    <p>See more details in <a href="https://github.com/users/Lruihao/projects/1">my recent activities</a> and <a href="https://github.com/orgs/hugo-fixit/projects/2">Roadmap of FixIt</a>.</p>
+</div>
 
 ## 📝 My last post
 🔗 [Cómo desplegar Hugo en AWS](https://lruihao.cn/posts/flexbox/) - _hace 3 días_
