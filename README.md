@@ -6,11 +6,8 @@
 
 ![Texto dinámico](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Cloud+Computing+Enjoyer;Open+Source+Contributor)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/azuar4e/github-stats/blob/master/generated/overview.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/azuar4e/github-stats/blob/master/generated/overview.svg" />
-  <img alt="GitHub Stats" src="https://github.com/azuar4e/github-stats/blob/master/generated/overview.svg" />
-</picture>
+![](https://raw.githubusercontent.com/azuar4e/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/azuar4e/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 ## 📝 My last post
