@@ -6,8 +6,9 @@
 
 ![Texto dinámico](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Cloud+Computing+Enjoyer;Open+Source+Contributor)
 
-![](https://raw.githubusercontent.com/azuar4e/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/azuar4e/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![azuar4e's GitHub stats](https://github-readme-stats.vercel.app/api?username=azuar4e&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azuar4e&layout=compact&theme=radical)
+
 
 
 ## 📝 My last post
