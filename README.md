@@ -6,16 +6,12 @@
 
 ![Texto dinámico](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Cloud+Computing+Enjoyer;Open+Source+Contributor)
 
-<div>
-    <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
-        <img src="https://github.com/azuar4e/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-        <img src="https://github.com/azuar4e/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-    </a>
-    <a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
-        <img src="https://github.com/azuar4e/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-        <img src="https://github.com/azuar4e/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-    </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/azuar4e/github-stats/blob/master/generated/overview.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/azuar4e/github-stats/blob/master/generated/overview.svg" />
+  <img alt="GitHub Stats" src="https://github.com/azuar4e/github-stats/blob/master/generated/overview.svg" />
+</picture>
+
 
 ## 📝 My last post
 🔗 [Cómo desplegar Hugo en AWS](https://lruihao.cn/posts/flexbox/) - _hace 3 días_
