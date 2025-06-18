@@ -1,4 +1,4 @@
-![Texto dinámico](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Angel+👋)
+![Texto dinámico](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ángel+👋)
 
 [![Visitas](https://komarev.com/ghpvc/?username=azuar4e)](https://github.com/azuar4e)
 
