@@ -11,7 +11,7 @@
 </p>
 
 ### 🛠️ Tools I work with
-![My Tools](https://skillicons.dev/icons?i=git,vscode,neovim,docker,kubernetes,aws,linux,bash)
+![My Tools](https://skillicons.dev/icons?i=go,python,git,vscode,neovim,docker,kubernetes,aws,linux,windows)
 
 ### 📬 My Social Media 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azuar4e)
