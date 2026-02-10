@@ -14,15 +14,11 @@
 
 ## 📊 GitHub Profile Stats
 
-<div style="display: flex; grid-gap: 5px">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="azuar4e's Github Stats" src="https://github-readme-stats.vercel.app/api?username=azuar4e&theme=react&hide_border=false&include_all_commits=true&count_private=true&card_width=460" style="width: 50%" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azuar4e&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuar4e&theme=react&layout=compact" />
+</p>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="azuar4e's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuar4e&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=375" style="width: 48%" />
-  </a>
-</div>
 
 ## 📈 Contribution Activity
 
