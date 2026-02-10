@@ -14,22 +14,26 @@
 
 ## 📊 GitHub Profile Stats
 
-<div style="display: flex; grid-gap: 5px">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="azuar4e's Github Stats" src="https://github-readme-stats.vercel.app/api?username=azuar4e&theme=react&hide_border=false&include_all_commits=true&count_private=true&card_width=460" style="width: 50%" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <a href="https://git.io/streak-stats">
+    <img alt="azuar4e's Streak" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=azuar4e&theme=react&hide_border=false" 
+         style="max-width: 49%" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="azuar4e's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuar4e&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=375" style="width: 48%" />
-  </a> 
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azuar4e&theme=react&hide_border=false&layout=compact&langs_count=8" 
+       style="width: 49%" />
 </div>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azuar4e&theme=github_dark" 
+     style="width: 100%" />
+  
 
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azuar4e&theme=react-dark" alt="Contribution Graph" />
 </div>
-
 
 
 
