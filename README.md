@@ -2,7 +2,7 @@
 
 [![Visitas](https://komarev.com/ghpvc/?username=azuar4e)](https://github.com/azuar4e)
 
-- 👨🏼‍🎓 4th year Computer Science student at UPM
+- 👨🏼‍🎓 Computer Science graduated at UPM
 - ☁️ Cloud Computing & Infraestructure
 
 ### 🛠️ Tools I work with
