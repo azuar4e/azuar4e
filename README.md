@@ -2,8 +2,15 @@
 
 [![Visitas](https://komarev.com/ghpvc/?username=azuar4e)](https://github.com/azuar4e)
 
-- 👨🏼‍🎓 Computer Science graduated at UPM
-- ☁️ Cloud Computing & Infraestructure
+Hi there! I'm Ángel. I'm driven and passionate about technology infrastructure, especially in cloud environments where automation and DevSecOps practices play a big role.
+
+Here you'll find projects and examples implementing modern technologies, and explaining how they improve the performance of modern infrastructures, which today are still neglected in some cases and don't get the consideration they deserve.
+
+I also have a blog with more fine-grained explanations of some of these repositories. You can check it out in the link in my bio.
+
+- 👨🏼‍🎓 Computer Science graduate at UPM
+- ☁️ Cloud Computing & Infrastructure
+- 🔭 Currently exploring: Kubernetes security, service mesh and eBPF
 
 ### 🛠️ Tools I work with
 ![My Tools](https://skillicons.dev/icons?i=go,python,git,vscode,neovim,docker,kubernetes,aws,linux,windows)
@@ -21,8 +28,7 @@
          style="max-width: 49%" />
   </a>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azuar4e&theme=react&hide_border=false&layout=compact&langs_count=8" 
-       style="width: 49%" />
+<img height="180" alt="Top langs" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azuar4e&theme=github_dark" />
 </div>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azuar4e&theme=github_dark" 
@@ -32,10 +38,10 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azuar4e&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/azuar4e" alt="Contribution Graph" />
 </div>
 
-
+---
 
 ```
 ⠀⠀⠀⠀⠀⠀⢦⣄⣀⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
